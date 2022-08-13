@@ -1,0 +1,6 @@
+__pycache__
+venv
+Dockerfile
+.git
+reviews_db.db
+run.bat
